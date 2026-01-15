@@ -16,7 +16,7 @@ The focus is operational thinking — not just commands.
 
 ---
 
-## 🧩 Subproject: Sentinel-Watchdog
+## Subproject: Sentinel-Watchdog
 
 Sentinel-Watchdog is a Bash-based watchdog script that runs manually
 or via cron to inspect system and security conditions.
@@ -35,7 +35,7 @@ sentinel-watchdog/
 
 
 
-# ⚙️ Implemented Features
+#  Implemented Features
 
 ✔ Config-driven behavior  
 ✔ Lock file to prevent duplicate runs  
