@@ -1,2 +1,2 @@
-# Linux-SysAdmin-Toolkit
- soon readme will come
+# Linux-SysAdmin-Toolki
+comming soon
